@@ -1,4 +1,4 @@
-# Spire - Android App Components and Data Handling
+<img width="1080" height="2400" alt="Screenshot_20260925_115659" src="https://github.com/user-attachments/assets/d75cd204-7350-49d9-ad8c-49c4ca23e9aa" /># Spire - Android App Components and Data Handling
 
 Spire is a comprehensive Android application designed to track and explore the world's tallest buildings. It serves as a showcase for modern Android development practices, focusing on robust data handling, offline-first architecture, and reactive UI patterns.
 
@@ -55,10 +55,12 @@ The project implementation covers 50 specific tasks across the entire stack:
 3.  Run the app on an emulator or physical device (API 24+).
 4.  Use the **Buildings** tab to explore, and **Pull-to-Refresh** to fetch the latest data from the cloud.
 ## Screenshots 
-<img width="760" height="1080" alt="Screenshot_20260925_115659" src="https://github.com/user-attachments/assets/b170c4f1-9e9a-4e4b-822b-8ebefa16bb11" /><img width="760" height="1080" alt="Screenshot_20260925_115907" src="https://github.com/user-attachments/assets/97e74d75-d9f6-4fe2-9fd0-b632536fa8e4" />
-<width="760" height="1080" alt="Screenshot_20260925_115850" src="https://github.com/user-attachments/assets/63f1f8c9-addb-490d-8f55-cc012a18e396" />
-<width="760" height="1080" alt="Screenshot_20260925_115803" src="https://github.com/user-attachments/assets/30ad8d37-9e57-4f7c-a1dd-ad5567ef202d" />
-<width="760" height="1080" alt="Screenshot_20260925_115747" src="https://github.com/user-attachments/assets/3af3ef7e-d42b-496e-b90c-e9f41f06a998" />
-<width="760" height="1080" alt="Screenshot_20260925_115732" src="https://github.com/user-attachments/assets/a38f2355-75c9-407d-a605-27f51b3174db" />
-<width="760" height="1080" alt="Screenshot_20260925_115717" src="https://github.com/user-attachments/assets/cd7285e0-9e5e-4bd2-81a9-e3f38e438f0a" />
+![Uploading Screenshot_20260925_115659.p<img width="760" height="800" alt="Screenshot_20260925_115732" src="https://github.com/user-attachments/assets/59942992-4a14-48c1-9e09-72763143c045" />
+<i<img width="760" height="800" alt="Screenshot_20260925_115907" src="https://github.com/user-attachments/assets/b40d558b-9191-4553-8fc8-57fbacaf3684" />
+<img width="760" height="800" alt="Screenshot_20260925_115850" src="https://github.com/user-attachments/assets/3f2c6f7b-9c52-456e-875d-7495d684acb7" />
+<img width="760" height="800" alt="Screenshot_20260925_115803" src="https://github.com/user-attachments/assets/8776265b-16ec-46aa-aeda-b6b936cf86e2" />
+<img width="760" height="800" alt="Screenshot_20260925_115747" src="https://github.com/user-attachments/assets/49c1901b-27d4-4fdb-8f75-ed8d668c52a5" />
+mg width="760" height="800" alt="Screenshot_20260925_115717" src="https://github.com/user-attachments/assets/b8719264-1204-4776-9401-c347e4272d98" />
+ng…]()
+
 
