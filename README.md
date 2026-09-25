@@ -55,10 +55,10 @@ The project implementation covers 50 specific tasks across the entire stack:
 3.  Run the app on an emulator or physical device (API 24+).
 4.  Use the **Buildings** tab to explore, and **Pull-to-Refresh** to fetch the latest data from the cloud.
 ## Screenshots 
-<img width="1080" height="2400" alt="Screenshot_20260925_115659" src="https://github.com/user-attachments/assets/b170c4f1-9e9a-4e4b-822b-8ebefa16bb11" /><img width="1080" height="2400" alt="Screenshot_20260925_115907" src="https://github.com/user-attachments/assets/97e74d75-d9f6-4fe2-9fd0-b632536fa8e4" />
-<img width="1080" height="2400" alt="Screenshot_20260925_115850" src="https://github.com/user-attachments/assets/63f1f8c9-addb-490d-8f55-cc012a18e396" />
-<img width="1080" height="2400" alt="Screenshot_20260925_115803" src="https://github.com/user-attachments/assets/30ad8d37-9e57-4f7c-a1dd-ad5567ef202d" />
-<img width="1080" height="2400" alt="Screenshot_20260925_115747" src="https://github.com/user-attachments/assets/3af3ef7e-d42b-496e-b90c-e9f41f06a998" />
-<img width="1080" height="2400" alt="Screenshot_20260925_115732" src="https://github.com/user-attachments/assets/a38f2355-75c9-407d-a605-27f51b3174db" />
-<img width="1080" height="2400" alt="Screenshot_20260925_115717" src="https://github.com/user-attachments/assets/cd7285e0-9e5e-4bd2-81a9-e3f38e438f0a" />
+<img width="760" height="1080" alt="Screenshot_20260925_115659" src="https://github.com/user-attachments/assets/b170c4f1-9e9a-4e4b-822b-8ebefa16bb11" /><img width="760" height="1080" alt="Screenshot_20260925_115907" src="https://github.com/user-attachments/assets/97e74d75-d9f6-4fe2-9fd0-b632536fa8e4" />
+<width="760" height="1080" alt="Screenshot_20260925_115850" src="https://github.com/user-attachments/assets/63f1f8c9-addb-490d-8f55-cc012a18e396" />
+<width="760" height="1080" alt="Screenshot_20260925_115803" src="https://github.com/user-attachments/assets/30ad8d37-9e57-4f7c-a1dd-ad5567ef202d" />
+<width="760" height="1080" alt="Screenshot_20260925_115747" src="https://github.com/user-attachments/assets/3af3ef7e-d42b-496e-b90c-e9f41f06a998" />
+<width="760" height="1080" alt="Screenshot_20260925_115732" src="https://github.com/user-attachments/assets/a38f2355-75c9-407d-a605-27f51b3174db" />
+<width="760" height="1080" alt="Screenshot_20260925_115717" src="https://github.com/user-attachments/assets/cd7285e0-9e5e-4bd2-81a9-e3f38e438f0a" />
 
